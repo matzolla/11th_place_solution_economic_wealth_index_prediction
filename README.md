@@ -1,4 +1,4 @@
-## 11th_place_solution_economic_wealth_index_prediction
+## $11^{th}$ place solution economic wealth index prediction
 
 Written By: *Nken Allassan*
 
