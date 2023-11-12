@@ -2,7 +2,7 @@ $11^{th}$ place solution economic wealth index prediction
 
 Written By : Nken  Allassan
 
-### About the problem
+## About the problem
 
 ```
 Granular information on economic well-being is extremely useful for governments, policy makers, and NGOs. But household surveys that capture this kind of information are expensive and conducted infrequently in many African countries.
