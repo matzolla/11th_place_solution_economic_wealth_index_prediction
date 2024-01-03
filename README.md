@@ -1,6 +1,6 @@
 $11^{th}$ place solution economic wealth index prediction.
 
-Written By : Nken  Allassan
+Written By : `Nken  Allassan`
 
 ## About the problem
 
