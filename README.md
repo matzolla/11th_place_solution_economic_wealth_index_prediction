@@ -1,4 +1,4 @@
-$11^{th}$ Place solution economic wealth index prediction.
+$11^{th}$ place solution economic wealth index prediction.
 
 Written by : `Nken  Allassan`
 
