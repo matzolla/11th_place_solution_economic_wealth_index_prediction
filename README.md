@@ -2,7 +2,7 @@ $11^{th}$ Place solution economic wealth index prediction.
 
 Written by : `Nken  Allassan`
 
-## About the problem
+### About the problem
 
 ```
 Granular information on economic well-being is extremely useful for governments, policy makers, and NGOs. But household surveys that
