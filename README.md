@@ -12,6 +12,6 @@ of wealth as measured in household surveys using readily available inputs.
 
 Using data from 18 different countries collected at different times, you must correctly predict the cluster-level estimated wealth
 measures found from surveys in 7 different countries not covered in the training data. A successful model could be useful for filling
-in the gaps between  more expensive surveys.This model was able to place number 3 on the AIMS data science hackathon.
+in the gaps between  more expensive surveys.This model was able to place number 3 on the AIMS data science hackathon
 
 ```
